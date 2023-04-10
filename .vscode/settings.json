@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "uds.h": "c",
+        "fu68xx_3_mcu.h": "c",
+        "flash.h": "c",
+        "main.h": "c",
+        "lin.h": "c",
+        "app.h": "c",
+        "fu68xx_5_mcu.h": "c",
+        "fu68xx_5_type.h": "c",
+        "fu68xx_5.h": "c"
+    }
+}

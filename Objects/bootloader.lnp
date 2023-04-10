@@ -1,0 +1,5 @@
+".\Objects\main.obj",
+".\Objects\STARTUP.obj" 
+TO ".\Objects\bootloader" 
+
+PRINT(".\Listings\bootloader.map") REMOVEUNUSED 

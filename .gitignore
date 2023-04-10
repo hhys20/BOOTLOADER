@@ -1,0 +1,6 @@
+KeilC51/Listing/
+KeilC51/Output/
+*.uvgui.*
+*.plg
+*.bak
+*.uvopt
